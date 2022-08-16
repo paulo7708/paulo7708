@@ -1,6 +1,8 @@
 
 <h1>Seja Bem vindo, Eu sou Paulo Henrique! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
+<div style="display: inline_block">
+
 - 🔥 Desenvolvedor Front-End Jr
 
 - 🔭 Desenvolvo alguns projetos independentes.
@@ -8,7 +10,7 @@
 - 🌱 Estudo atualmente React, JavaScript, Typescript, futuramente Node.Js, SQL, MongoDB
 
 - 👨‍💻 Meus projetos estão disponíveis em [🚨 Portifólio em Construção]()
-<br><br>
+</div>
 
 ## 🛠️  &nbsp;Tecnologias que domino
 <div style="display: inline_block"><br>
@@ -24,9 +26,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708's most used languages"/>
-
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708'stats"/>
+<img width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708's most used languages"/>
+<img width="490em" src="https://github-readme-stats.vercel.app/api?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708'stats"/>
 </div>
 
 ## &nbsp;Social links
