@@ -28,7 +28,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulenriqe/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511993575696&text=Ol%C3%A1%2C%20peguei%20seu%20contato%20no%20Site.)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/paulo7708/paulo7708/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block">
 
