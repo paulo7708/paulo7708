@@ -15,11 +15,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708's most used languages"/>
+<div align="left">
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708's most used languages"/>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708'stats"/>
-</p>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708'stats"/>
+</div>
 
 ## &nbsp;Social links
 
