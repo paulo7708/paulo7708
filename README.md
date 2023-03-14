@@ -38,5 +38,5 @@
 
 - 🌱 Estudo atualmente React, JavaScript, Typescript, futuramente Node.Js, SQL, MongoDB
 
-- 👨‍💻 Meus projetos estão disponíveis em [🚨 Portifólio em Construção]()
+- 👨‍💻 Meus projetos estão disponíveis em [🚨 Portifólio em Construção](https://designcriative.com/)
 </div>
