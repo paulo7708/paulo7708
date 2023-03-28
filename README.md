@@ -18,8 +18,8 @@
 
 <div align="left">
 <a href="https://github.com/paulo7708">
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708's most used languages"/>
-<img width="420em" src="https://github-readme-stats.vercel.app/api?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708'stats"/>
+<img width="415em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708's most used languages"/>
+<img width="420em" height="300em" src="https://github-readme-stats.vercel.app/api?username=paulo7708&layout=compact&theme=tokyonight" alt="paulo7708'stats"/>
 </div>
 
 ## &nbsp;Social links
