@@ -32,11 +32,11 @@
 
 <div style="display: inline_block">
 
-- 🔥 Desenvolvedor Front-End Jr
+- 🔥 Desenvolvedor Full Stack
 
 - 🔭 Desenvolvo alguns projetos independentes.
 
-- 🌱 Estudo atualmente React, JavaScript, Typescript, futuramente Node.Js, SQL, MongoDB
+- 🌱 React, JavaScript, Typescript, futuramente Node.Js, SQL, MongoDB
 
 - 👨‍💻 Meus projetos estão disponíveis em [🚨 Portifólio em Construção](https://designcriative.com/)
 </div>
