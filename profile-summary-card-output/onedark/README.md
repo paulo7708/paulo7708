@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/paulo7708/paulo7708/main/profile-summary-card-output/onedark/4-productive-time.svg)
+```
+
+    
